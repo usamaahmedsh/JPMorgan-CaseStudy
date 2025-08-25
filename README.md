@@ -24,10 +24,12 @@ To install the libraries required for this assignment run:
 
 Open the notebook:
 
-    notebooks/Walmart_Income_Project.ipynb
+    notebooks/main(Q1+Q2).ipynb
 
 
 Run all cells in order.
+
+This notebook contains the classification model and the segmentation model
 
 # The notebook covers:
 
