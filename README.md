@@ -43,4 +43,4 @@ This notebook contains the classification model and the segmentation model
 
  6. Marketing recommendations for each segment
 
-_Note: Visualizations and code are provided in the accompanying Jupyter notebook, including SHAP analysis and cluster validation plots. Please refer to the Jupyter Notebook for all visualizations._ 
+_Note: Visualizations and code are provided in the accompanying Jupyter notebook, including SHAP analysis and cluster validation plots. Please refer to the Jupyter Notebook for all visualizations and comments. Comments are important to understand my reasoning for each step_ 
