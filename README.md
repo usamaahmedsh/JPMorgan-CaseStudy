@@ -33,16 +33,16 @@ This notebook contains the classification model and the segmentation model
 
 # The notebook covers:
 
-Data cleaning and preprocessing
+ 1. Data cleaning and preprocessing
 
-Feature engineering
+ 2. Feature engineering
 
-XGBoost model training and evaluation
+ 3. XGBoost model training and evaluation
 
-SHAP analysis for feature importance
+ 4. SHAP analysis for feature importance
 
-Rule-based segmentation and K-Means validation
+ 5. Rule-based segmentation and K-Means validation
 
-Marketing recommendations for each segment
+ 6. Marketing recommendations for each segment
 
 _Note: Visualizations and code are provided in the accompanying Jupyter notebook, including SHAP analysis and cluster validation plots. Please refer to the Jupyter Notebook for all visualizations._ 
