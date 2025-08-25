@@ -1,5 +1,3 @@
-# JPMorgan-CaseStudy
-
 # Project Overview
 
 This project addresses a business problem for Walmart:
