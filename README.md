@@ -45,4 +45,4 @@ Rule-based segmentation and K-Means validation
 
 Marketing recommendations for each segment
 
-Note: Visualizations and code are provided in the accompanying Jupyter notebook, including SHAP analysis and cluster validation plots. Please refer to the Jupyter Notebook for all the visualizations. 
+_Note: Visualizations and code are provided in the accompanying Jupyter notebook, including SHAP analysis and cluster validation plots. Please refer to the Jupyter Notebook for all visualizations._ 
